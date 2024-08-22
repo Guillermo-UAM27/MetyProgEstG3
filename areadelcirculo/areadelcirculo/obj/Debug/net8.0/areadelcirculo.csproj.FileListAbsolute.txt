@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\bin\Debug\net8.0\areadelcirculo.exe
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\bin\Debug\net8.0\areadelcirculo.deps.json
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\bin\Debug\net8.0\areadelcirculo.runtimeconfig.json
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\bin\Debug\net8.0\areadelcirculo.dll
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\bin\Debug\net8.0\areadelcirculo.pdb
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.dll
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\refint\areadelcirculo.dll
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.pdb
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\areadelcirculo.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Documentos\c#\areadelcirculo\areadelcirculo\obj\Debug\net8.0\ref\areadelcirculo.dll

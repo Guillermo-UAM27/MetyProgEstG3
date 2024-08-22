@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\bin\Debug\net8.0\Nombre y Apellido.exe
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\bin\Debug\net8.0\Nombre y Apellido.deps.json
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\bin\Debug\net8.0\Nombre y Apellido.runtimeconfig.json
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\bin\Debug\net8.0\Nombre y Apellido.dll
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\bin\Debug\net8.0\Nombre y Apellido.pdb
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.dll
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\refint\Nombre y Apellido.dll
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.pdb
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\Nombre y Apellido.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Documentos\c#\Nombre y Apellido\Nombre y Apellido\obj\Debug\net8.0\ref\Nombre y Apellido.dll

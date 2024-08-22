@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\bin\Debug\net8.0\sumar.exe
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\bin\Debug\net8.0\sumar.deps.json
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\bin\Debug\net8.0\sumar.runtimeconfig.json
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\bin\Debug\net8.0\sumar.dll
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\bin\Debug\net8.0\sumar.pdb
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.dll
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\refint\sumar.dll
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.pdb
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\sumar.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Documentos\c#\sumar\sumar\obj\Debug\net8.0\ref\sumar.dll

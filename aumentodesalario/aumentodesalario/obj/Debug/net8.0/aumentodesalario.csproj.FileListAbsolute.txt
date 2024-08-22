@@ -1,0 +1,4 @@
+C:\Users\guill\OneDrive\Documentos\c#\aumentodesalario\aumentodesalario\obj\Debug\net8.0\aumentodesalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Documentos\c#\aumentodesalario\aumentodesalario\obj\Debug\net8.0\aumentodesalario.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#\aumentodesalario\aumentodesalario\obj\Debug\net8.0\aumentodesalario.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Documentos\c#\aumentodesalario\aumentodesalario\obj\Debug\net8.0\aumentodesalario.csproj.CoreCompileInputs.cache
